@@ -142,4 +142,4 @@ The green button in the Quick Start section.
 | Common questions | [FAQ](#faq) |
 | Download | [Download](#download) |
 
-*azure-vector-182 · Updated 2026-10-08 · Shared under the MIT License*
+*azure-vector-182 · Updated 2026-10-09 · Shared under the MIT License*
